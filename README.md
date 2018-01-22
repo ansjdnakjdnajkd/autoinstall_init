@@ -11,7 +11,7 @@ macOS, Linux afterinstall scripts
 
 #disable gatekkeper
 
-```sudo spctl --master-disable`
+```sudo spctl --master-disable```
 
 #add spaces for Dock
 
